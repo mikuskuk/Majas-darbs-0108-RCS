@@ -1,0 +1,295 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* auto */
+
+.virsbuve {
+    background-color: red;
+    width: 150px;
+    height: 90px;
+    margin: 100px auto;
+    border-top-left-radius: 70%;
+    border-top-right-radius: 50%;
+    position: absolute;
+    top: 230px;
+    right: 80%;
+}
+.virsbuve span {
+    width: 40px;
+    height: 25px;
+    background-color: black;
+    position: absolute;
+}
+.virsbuve .v1 {
+    top: 20px;
+    right: 15%;
+    border-top-right-radius: 50%;
+}
+.virsbuve .v2 {
+    top: 20px;
+    right: 54%;
+    border-top-left-radius: 50%;
+}
+.riepas span {
+    background-color: black;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    border-radius: 50%;
+}
+.riepas .r1 {
+    left: 10%;
+    top: 402px;
+}
+.riepas .r2 {
+    left: 17%;
+    top: 402px;
+}
+
+/* maja */
+
+.korpuss {
+    background-color:bisque;
+    width: 350px;
+    height: 300px;
+    position: absolute;
+    right: 35%;
+    top: 130px;
+}
+.jumts {
+    height: 0px;
+    width: 0px;
+    border-bottom: 100px solid brown;
+    border-left: 200px solid transparent;
+    border-right: 200px solid transparent;
+    position: absolute;
+    right: 33%;
+    top: 30px;
+}
+.durvis {
+    height: 80px;
+    width: 65px;
+    background-color: chocolate;
+    position: absolute;
+    top: 350px;
+    right: 45%;
+}
+.klinkis {
+    height: 8px;
+    width: 15px;
+    background-color: black;
+    position: absolute;
+    right: 45%;
+    top: 385px;
+}
+.logi span {
+    background-color: aqua;
+    width: 70px;
+    height: 70px;
+    position: absolute;
+}
+.logi .l1 {
+    top: 170px;
+    right: 38%;
+}
+.logi .l2 {
+    top: 170px;
+    right: 52%;
+}
+.logi .l3 {
+    right: 52%;
+    top: 300px;
+}
+.logi .l4 {
+    right: 38%;
+    top: 300px;
+}
+.masts {
+    width: 5px;
+    height: 300px;
+    background-color: black;
+    position: absolute;
+    top: 130px;
+    right: 27%;
+}
+.karogs {
+    background-color: white;
+    width: 140px;
+    height: 15px;
+    border-top: 20px solid rgb(158, 48, 57);
+    border-bottom: 20px solid rgb(158, 48, 57);
+    position: absolute;
+    top: 130px;
+    right: 16.8%;
+}
+
+/* cilveks */
+
+.kermenis {
+    background-color: yellowgreen;
+    width: 30px;
+    height: 40px;
+    position: absolute;
+    top: 360px;
+    left: 28.7%;
+    border-top-left-radius: 30%;
+    border-top-right-radius: 30%;
+}
+.kajas span {
+    width: 7.5px;
+    height: 35px;
+    background-color: blue;
+    position: absolute;
+}
+.kajas .k1 {
+    top: 400px;
+    left: 28.8%;
+}
+.kajas .k2 {
+    top: 400px;
+    left: 30.35%;
+}
+.galva {
+    background-color: beige;
+    width: 25px;
+    height: 18px;
+    margin-bottom: 20px;
+    border-radius: 50%;
+    margin-left: 395px;
+    position: relative;
+    top: 348px;
+}
+.rokas span{
+    background-color: yellowgreen;
+    width: 7px;
+    height: 30px;
+    position: absolute;
+}
+.rokas .ro1 {
+    top: 365px;
+    left: 28.25%;
+    transform: rotate(30deg);
+}
+.rokas .ro2 {
+    top: 340px;
+    left: 31.2%;
+    transform: rotate(40deg);
+}
+.acis span {
+    background-color: black;
+    width: 2px;
+    height: 2px;
+    position: absolute;
+}
+.acis .ac1 {
+    top: 353px;
+    left: 30.1%;
+}
+.acis .ac2 {
+    top: 353px;
+    left: 29.5%;
+}
+.smaids {
+    width: 5px;
+    height: 5px;
+    border: 1px solid black;
+    border-radius: 50%;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+    transform: rotate(-225deg);
+    position: absolute;
+    top: 355px;
+    left: 29.6%;
+}
+
+/* Suns */
+
+.kerm {
+    background-color: coral;
+    width: 50px;
+    height: 20px;
+    border-top-right-radius: 20%;
+    border-bottom-right-radius: 20%;
+    border-bottom-left-radius: 20%;
+    position: absolute;
+    top: 402px;
+    right: 17%;
+}
+.kaja span {
+    background-color: coral;
+    width: 5px;
+    height: 10px;
+    position: absolute;
+}
+.kaja .ka1 {
+    top: 420px;
+    right: 20%;
+}
+.kaja .ka2 {
+    top: 420px;
+    right: 17.1%;
+}
+.aste {
+    background-color: coral;
+    width: 5px;
+    height: 18px;
+    position: absolute;
+    top: 390px;
+    right: 16.5%;
+    transform: rotate(55deg);
+}
+.galv {
+    background-color: coral;
+    width: 27px;
+    height: 19px;
+    margin-bottom: 20px;
+    border-radius: 45%;
+    position: absolute;
+    top: 399px;
+    right: 20%;
+}
+.ausis span {
+    height: 0px;
+    width: 0px;
+    border-bottom: 5px solid coral;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    position: absolute;
+    right: 33%;
+}
+.ausis .aus1 {
+    top: 396px;
+    right: 20.4%;
+}
+.ausis .aus2 {
+    top: 396px;
+    right: 20.95%;
+}
+.aciss span {
+    background-color: black;
+    width: 2px;
+    height: 2px;
+    position: absolute;
+}
+.aciss .acs1 {
+    top: 405px;
+    right: 20.7%;
+}
+.aciss .acs2 {
+    top: 405px;
+    right: 21.2%;
+}
+.smaidins {
+    width: 5px;
+    height: 5px;
+    border: 1px solid black;
+    border-radius: 50%;
+    border-bottom-color: transparent;
+    border-left-color: transparent;
+    transform: rotate(-225deg);
+    position: absolute;
+    top: 407px;
+    right: 20.8%;
+}
