@@ -12,40 +12,44 @@
     margin: 100px auto;
     border-top-left-radius: 70%;
     border-top-right-radius: 50%;
-    position: absolute;
-    top: 230px;
-    right: 80%;
+    position: relative;
+    right: 35.5%;
+    top: 225px;
 }
-.virsbuve span {
+.logia span{
     width: 40px;
     height: 25px;
     background-color: black;
+    position: relative;
+}
+.logia .logia1 {
+    top: 340px;
+    left: 215px;
+    border-top-right-radius: 50%;
     position: absolute;
 }
-.virsbuve .v1 {
-    top: 20px;
-    right: 15%;
-    border-top-right-radius: 50%;
-}
-.virsbuve .v2 {
-    top: 20px;
-    right: 54%;
+.logia .logia2 {
+    top: 340px;
+    left: 155px;
     border-top-left-radius: 50%;
+    position: absolute;
 }
 .riepas span {
     background-color: black;
     width: 30px;
     height: 30px;
-    position: absolute;
+    position: relative;
     border-radius: 50%;
 }
 .riepas .r1 {
-    left: 10%;
-    top: 402px;
+    left: 17%;
+    top: 400px;
+    position: absolute;
 }
 .riepas .r2 {
-    left: 17%;
-    top: 402px;
+    left: 10%;
+    top: 400px;
+    position: absolute;
 }
 
 /* maja */
@@ -54,9 +58,9 @@
     background-color:bisque;
     width: 350px;
     height: 300px;
-    position: absolute;
-    right: 35%;
-    top: 130px;
+    position: relative;
+    margin-top: -160px;
+    margin-left: 540px;
 }
 .jumts {
     height: 0px;
@@ -64,25 +68,25 @@
     border-bottom: 100px solid brown;
     border-left: 200px solid transparent;
     border-right: 200px solid transparent;
-    position: absolute;
-    right: 33%;
-    top: 30px;
+    position: relative;
+    margin-left: 515px;
+    margin-top: -400px;
 }
 .durvis {
     height: 80px;
     width: 65px;
     background-color: chocolate;
-    position: absolute;
-    top: 350px;
-    right: 45%;
+    position: relative;
+    margin-top: 220px;
+    margin-left: 686px;
 }
 .klinkis {
     height: 8px;
     width: 15px;
     background-color: black;
-    position: absolute;
-    right: 45%;
-    top: 385px;
+    position: relative;
+    margin-left: 735px;
+    margin-top: -45px;
 }
 .logi span {
     background-color: aqua;
@@ -110,9 +114,9 @@
     width: 5px;
     height: 300px;
     background-color: black;
-    position: absolute;
-    top: 130px;
-    right: 27%;
+    position: relative;
+    margin-top: -263px;
+    margin-left: 992px;
 }
 .karogs {
     background-color: white;
@@ -120,9 +124,9 @@
     height: 15px;
     border-top: 20px solid rgb(158, 48, 57);
     border-bottom: 20px solid rgb(158, 48, 57);
-    position: absolute;
-    top: 130px;
-    right: 16.8%;
+    position: relative;
+    margin-top: -300px;
+    margin-left: 997px;
 }
 
 /* cilveks */
@@ -131,8 +135,8 @@
     background-color: yellowgreen;
     width: 30px;
     height: 40px;
-    position: absolute;
-    top: 360px;
+    position: relative;
+    top: 175px;
     left: 28.7%;
     border-top-left-radius: 30%;
     border-top-right-radius: 30%;
@@ -159,7 +163,7 @@
     border-radius: 50%;
     margin-left: 395px;
     position: relative;
-    top: 348px;
+    margin-top: 123px;
 }
 .rokas span{
     background-color: yellowgreen;
@@ -199,9 +203,9 @@
     border-bottom-color: transparent;
     border-left-color: transparent;
     transform: rotate(-225deg);
-    position: absolute;
-    top: 355px;
-    left: 29.6%;
+    position: relative;
+    margin-top: -30px;
+    margin-left: 29.6%;
 }
 
 /* Suns */
@@ -213,9 +217,9 @@
     border-top-right-radius: 20%;
     border-bottom-right-radius: 20%;
     border-bottom-left-radius: 20%;
-    position: absolute;
-    top: 402px;
-    right: 17%;
+    position: relative;
+    margin-top: 38px;
+    margin-left: 1085px;
 }
 .kaja span {
     background-color: coral;
@@ -235,9 +239,9 @@
     background-color: coral;
     width: 5px;
     height: 18px;
-    position: absolute;
-    top: 390px;
-    right: 16.5%;
+    position: relative;
+    margin-top: -31px;
+    margin-left: 1139px;
     transform: rotate(55deg);
 }
 .galv {
@@ -246,9 +250,9 @@
     height: 19px;
     margin-bottom: 20px;
     border-radius: 45%;
-    position: absolute;
-    top: 399px;
-    right: 20%;
+    position: relative;
+    margin-top: -9px;
+    margin-left: 1065px;
 }
 .ausis span {
     height: 0px;
